@@ -463,8 +463,8 @@ hr{
         }
     
         .showcase {
-            height: 800px;
             display: block;
+            height: 800px;
             font-size: 10px;
         }
         .nav-brand {
