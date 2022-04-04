@@ -37,7 +37,7 @@
                 </li>
                 
                 <li>
-                    <a href="#">Arquitectura del computador</a>
+                    <a href="#titulocuatro">Arquitectura del computador</a>
                 </li>
                 <li>
                     <a href="#">Hacking etico</a>
@@ -53,13 +53,16 @@
                     </a>
                 </li>           
             </ul>
+            <div class="menu-btn">
+                <i class="fas fa-bars"></i>
+            </div>
         </div>
+        
     </div>
+    
 <body>
 
-    <div class="menu-btn">
-        <i class="fas fa-bars"></i>
-    </div>
+    
     
     <div class="cantainer2"> 
         <!--Showcase-->
@@ -89,12 +92,12 @@
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad illo rem assumenda quisquam sint consequatur consectetur, hic architecto deleniti nam.</p>
             <a href="#titulotres">learn more <i class="fas fa-angle-double-right"></i></a>
          </div> 
-         <div>
+         <!--<div>
             <img src="img/etico.jpg" alt="f">
             <h3>Hacking etico</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad illo rem assumenda quisquam sint consequatur consectetur, hic architecto deleniti nam.</p>
             <a href="#">learn more <i class="fas fa-angle-double-right"></i></a>
-         </div> 
+         </div> -->
 
         </div>
         
@@ -216,10 +219,11 @@
                     <p class="mapeonivel2"><img src="img/img7.png" alt="" class="img7">La regla de la Segunda Forma Normal establece que todas las dependencias parciales se deben eliminar y separar dentro de sus propias tablas. Una dependencia parcial es un término que describe a aquellos datos que no dependen de la llave primaria de la tabla para identificarlos. Una vez alcanzado el nivel de la Segunda Forma Normal, se controlan la mayoría de los problemas de lógica.
                     </p>
                 <p>°Tercera forma normal.</p>
-                <p class="mapeonivel2">Una tabla está normalizada en esta forma si todas las columnas que no son llave son funcionalmente dependientes por completo de la llave primaria y no hay dependencias transitivas. Cuando las tablas están en la Tercera Forma Normal se previenen errores de lógica cuando se insertan o borran registros. Cada columna en una tabla está identificada de manera única por la llave primaria, y no debe haber datos repetidos. Esto provee un esquema limpio y elegante, que es fácil de trabajar y expandir.</p>
+                <p class="mapeonivel2">Una tabla está normalizada en esta forma si todas las columnas que no son llave son funcionalmente dependientes por completo de la llave primaria y no hay dependencias transitivas. Cuando las tablas están en la Tercera Forma Normal se previenen errores de lógica cuando se insertan o borran registros. Cada columna en una tabla está identificada de manera única <a name="titulocuatro"></a> por la llave primaria, y no debe haber datos repetidos. Esto provee un esquema limpio y elegante, que es fácil de trabajar y expandir.</p>
                 <hr>
 
                 <h4>Direcciones virtuales y fisicas</h4>
+
                 <p>La dirección virtual es generada por la CPU en perspectiva de un programa. Por otro lado, la dirección física es una ubicación que existe en la unidad de memoria</p>
                 <p>La asignación de memoria puede realizarse dependiendo de las posibilidades del SO, las distintas formas son:</p>
                 <p>•	Particiones estáticas:</p>
@@ -232,15 +236,28 @@
                 <p class="mapeonivel2">*	Los programas son introducidos por el SO inicialmente en posiciones consecutivas de memoria, no existiendo por tanto particiones predefinidas.</p>
 
                 <p>•	Segmentación:</p>
-                <p class="mapeonivel2"> * La memoria se aprovecha mejor cuando mas pequeños fuesen los procesos o hebras o unidades a almacenar en ella. <br>
+                <p class="mapeonivel2"> * La memoria se aprovecha mejor cuando mas pequeños fuesen los procesos o hebras o unidades a almacenar en ella. </p>
                     <p class="mapeonivel2">*	Un proceso está compuesto por unidades que denominamos segmentos. </p>
                         <p class="segmentacion2">°	Segmentos de código </p>
                         <p class="segmentacion2">°	Segmento de pila </p>
                         <p class="segmentacion2">°	Segmento de datos </p>
                     <p class="mapeonivel2">* La gestión de memoria con segmentación consiste en considerar como unidades de almacenamiento segmentos, en lugar de procesos o hebras.</p>
-                    
-                <h4>Hacking etico</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, ex. Odit magni quae aut. Adipisci, inventore repudiandae dolore maxime voluptatum, numquam odit tenetur illum ea velit, doloremque praesentium esse pariatur eveniet. Omnis facere, corrupti sint officiis reprehenderit ab ea atque? Cumque odit ipsa molestiae distinctio sint, at ipsam soluta consequuntur.</p>
+                
+                    <p>•	Paginación:</p>
+                    <p class="mapeonivel2">*	Los programas se consideran divididos en zonas consecutivas, (paginas). </p>
+                    <p class="segmentacion2">° Cada pagina es de tamaño fijo, preestablecido como un parámetro del SO (512 b a 64 kb, por lo general). </p>
+                    <p class="segmentacion2">° Se identifican dentro del programa con un numero correlativo. </p>
+                    <p class="mapeonivel2">*	El fundamento de la paginación esta en que no es necesario que el programa completo se almacene en posiciones consecutivas de memoria. </p>
+                    <p class="segmentacion2">° Las paginas se almacenan en marcos de pagina libre, independientemente de que estén o no contiguos. </p>
+
+                    <p>•	Memoria virtual:</p>
+                    <p class="mapeonivel2">* Presenta al usuario una MP aparente mayor que la memoria física real.</p>
+                    <p class="mapeonivel2">* Permite: </p>
+                    <p class="segmentacion2">°	Ejecutar programas de capacidad superior a la memoria que físicamente tiene el computador.</p>
+                    <p class="segmentacion2">°	Aumentar el numero de procesos en la MP, en ejecución concurrente.</p>
+               <!-- <h4>Hacking etico</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, ex. Odit magni quae aut. Adipisci, inventore repudiandae dolore maxime voluptatum, numquam odit tenetur illum ea velit, doloremque praesentium esse pariatur eveniet. Omnis facere, corrupti sint officiis reprehenderit ab ea atque? Cumque odit ipsa molestiae distinctio sint, 
+                    at ipsam soluta consequuntur.</p>-->
             </div>
         </section>
         <section class="social">
