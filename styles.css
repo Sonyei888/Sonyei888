@@ -427,7 +427,7 @@ hr{
     .showcase {
         
         display: none;
-        font-size: 20px;
+        font-size: 100px;
         height: 800px;
     }
 
@@ -452,7 +452,7 @@ hr{
     .showcase {
         
         display: none;
-        font-size: 25px;
+        font-size: 100px;
         height: 800px;
     }
 }
@@ -465,7 +465,7 @@ hr{
         .showcase {
             height: 800px;
             display: none;
-            font-size: 20px;
+            font-size: 100px;
         }
         .nav-brand {
             width: 115px;
