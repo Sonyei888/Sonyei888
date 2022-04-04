@@ -378,6 +378,13 @@ hr{
 }
 
 @media (max-width: 700px){
+    .showcase {
+        
+        display: block;
+        font-size: 25px;
+        height: 800px;
+    }
+
 
     .menu-btn {
         display: block;
@@ -397,9 +404,9 @@ hr{
     }
 
     
-.nav-main ul.nav-menu.show{
-    transform: translateX(-20px);
-}
+    .nav-main ul.nav-menu.show{
+        transform: translateX(-20px);
+    }
 
     .nav-main ul.nav-menu li {
         background-color: black;
@@ -424,13 +431,7 @@ hr{
     .nav-main .nav-menu{
         background-color: #00FFCB;
     }
-    .showcase {
-        
-        display: block;
-        font-size: 10px;
-        height: 800px;
-    }
-
+}
 @media (max-width: 500px){
     .menu-btn {
         display: block;
@@ -447,26 +448,26 @@ hr{
     .footer-links .footer-container {
         grid-template-columns: 1fr;
     }
-
     
     .showcase {
         
         display: block;
-        font-size: 10px;
+        font-size: 25px;
         height: 800px;
     }
 }
-
     @media (max-width: 390px){
         .menu-btn {
             display: block;
         }
     
         .showcase {
+        
             display: block;
+            font-size: 25px;
             height: 800px;
-            font-size: 10px;
         }
+    
         .nav-brand {
             width: 115px;
         }
@@ -478,3 +479,5 @@ hr{
 
 
     }
+
+    
