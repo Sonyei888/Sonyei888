@@ -446,7 +446,7 @@ hr{
         
         display: block;
         font-size: 25px;
-
+        height: 800px;
     }
 
     @media (max-width: 390px){
@@ -455,6 +455,7 @@ hr{
         }
     
         .showcase {
+            
             display: block;
             font-size: 15px;
         }
