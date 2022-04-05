@@ -102,7 +102,7 @@ ul{
 
 .showcase{
     width: 95%;
-    height: 560px;
+    height: 570px;
     background: url(img/showcase\ 2.0.png) no-repeat center center/cover;
     padding: 50px;
     padding-bottom: 50px;
@@ -382,7 +382,7 @@ hr{
         
         display: block;
         font-size: 25px;
-        height: 700px;
+        height: 650px;
     }
 
 
@@ -453,7 +453,7 @@ hr{
         
         display: block;
         font-size: 25px;
-        height: 700px;
+        height: 650px;
     }
 }
     @media (max-width: 390px){
@@ -465,7 +465,7 @@ hr{
         
             display: block;
             font-size: 25px;
-            height: 700px;
+            height: 650px;
         }
     
         .nav-brand {
