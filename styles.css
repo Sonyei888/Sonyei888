@@ -382,7 +382,7 @@ hr{
         
         display: block;
         font-size: 25px;
-        height: 740px;
+        height: 700px;
     }
 
 
@@ -453,7 +453,7 @@ hr{
         
         display: block;
         font-size: 25px;
-        height: 740px;
+        height: 700px;
     }
 }
     @media (max-width: 390px){
@@ -465,7 +465,7 @@ hr{
         
             display: block;
             font-size: 25px;
-            height: 740px;
+            height: 700px;
         }
     
         .nav-brand {
