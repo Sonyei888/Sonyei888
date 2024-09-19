@@ -3,11 +3,17 @@
 </div>
 <img src="https://i.imgur.com/9ZMsDrN.png"> 
 
-[![Android Developer](https://img.shields.io/badge/Mobile%20developer-orange)](https://www.linkedin.com/in/yeisoncalderon/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-green)](https://www.linkedin.com/in/yeisoncalderon/)
-[![Java](https://img.shields.io/badge/Java-blue)](https://www.linkedin.com/in/yeisoncalderon/)
-[![SQL](https://img.shields.io/badge/SQL-red)](https://www.linkedin.com/in/yeisoncalderon/)
-[![Firebase](https://img.shields.io/badge/Firebase-yellow)](https://www.linkedin.com/in/yeisoncalderon/)
+## Tecnologies:
+
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=3DDC84)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=007396)]()
+</br>
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=FFCA28)]()
+[![Sql Server](https://img.shields.io/badge/SqlServer-FFCA28?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=FFCA28)]()
+[![Postgre Sql](https://img.shields.io/badge/PostgreSql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4479A1)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)]()
 
 ## Sobre mi
 
