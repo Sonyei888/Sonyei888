@@ -1,8 +1,19 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="www.linkedin.com/in/yeisoncalderon">Yeison Calderon</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/yeisoncalderon/">Yeison Calderon</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/9ZMsDrN.png"> 
 
+[![YouTube Channel Subscribers](https://img.shields.io/badge/Mobile%20developer-orange)]
+
+
+## Sobre mi
+
+- 📲 Mobile developer
+- 
+- 
+- 
+- 
+<br>
 
 
 <!--
