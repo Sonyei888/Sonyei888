@@ -11,12 +11,18 @@
 
 ## Sobre mi
 
-- 📲 Mobile developer
-- 
-- 
-- 
-- 
+- Soy una persona apasionada por el aprendizaje 📚 y altamente adaptable 🔄, con experiencia en desarrollo de aplicaciones móviles 📱 y un enfoque multidisciplinario 🔧. Mi trayectoria incluye la creación de aplicaciones intuitivas y de alto rendimiento 🚀, tanto para plataformas móviles como para otros entornos 🌐.
+
 <br>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sonyei888&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 
 <!--
