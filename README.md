@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="www.linkedin.com/in/yeisoncalderon">Yeison Calderon</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/QGxa5uK.png">
+<img src="https://imgur.com/QGxa5uK.png"> 
 
 
 
