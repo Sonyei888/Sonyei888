@@ -7,7 +7,7 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-green)](https://www.linkedin.com/in/yeisoncalderon/)
 [![Java](https://img.shields.io/badge/Java-blue)](https://www.linkedin.com/in/yeisoncalderon/)
 [![SQL](https://img.shields.io/badge/SQL-red)](https://www.linkedin.com/in/yeisoncalderon/)
-[![Firebase](hhttps://img.shields.io/badge/Firebase-yellow)](https://www.linkedin.com/in/yeisoncalderon/)
+[![Firebase](https://img.shields.io/badge/Firebase-yellow)](https://www.linkedin.com/in/yeisoncalderon/)
 
 ## Sobre mi
 
