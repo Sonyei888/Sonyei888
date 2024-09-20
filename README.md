@@ -6,16 +6,16 @@
 
 ## Tecnologies:
 
-[![Android](https://img.shields.io/badge/Android-27c66e?style=for-the-badge&logo=android&logoColor=white&labelColor=27c66e)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=007396)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-27c66e?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=27c66e)]()
-[![Netbeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white&labelColor=1B6AC6)]()
+[![Android](https://img.shields.io/badge/Android-27c66e?style=for-the-badge&logo=android&logoColor=white&labelColor=27c66e)](https://github.com/Sonyei888)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5)](https://github.com/Sonyei888)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=007396)](https://github.com/Sonyei888)
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-27c66e?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=27c66e)](https://github.com/Sonyei888)
+[![Netbeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white&labelColor=1B6AC6)](https://github.com/Sonyei888)
 </br>
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=FFCA28)]()
-[![Postgre Sql](https://img.shields.io/badge/PostgreSql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4479A1)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)]()
-![Notion](https://img.shields.io/badge/Notion-1d201e?style=for-the-badge&logo=notion&logoColor=white)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=FFCA28)](https://github.com/Sonyei888)
+[![Postgre Sql](https://img.shields.io/badge/PostgreSql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4479A1)](https://github.com/Sonyei888)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)](https://github.com/Sonyei888)
+[![Notion](https://img.shields.io/badge/Notion-1d201e?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/Sonyei888)
 
 ## Sobre mi
 
