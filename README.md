@@ -15,6 +15,7 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=FFCA28)]()
 [![Postgre Sql](https://img.shields.io/badge/PostgreSql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4479A1)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)]()
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## Sobre mi
 
@@ -25,8 +26,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sonyei888&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Sonyei888">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonyei888&layout=compact&theme=algolia"/>
 </a>
 </p>
 
