@@ -15,7 +15,7 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=FFCA28)]()
 [![Postgre Sql](https://img.shields.io/badge/PostgreSql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4479A1)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)]()
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-1d201e?style=for-the-badge&logo=notion&logoColor=white)
 
 ## Sobre mi
 
