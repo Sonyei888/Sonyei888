@@ -19,7 +19,8 @@
 
 ## Sobre mi
 
-- Soy una persona apasionada por el aprendizaje 📚 y altamente adaptable 🔄, con experiencia en desarrollo de aplicaciones móviles 📱 y un enfoque multidisciplinario 🔧. Mi trayectoria incluye la creación de aplicaciones intuitivas y de alto rendimiento 🚀, tanto para plataformas móviles como para otros entornos 🌐. 
+Persona apasionada por el aprendizaje 📚 y altamente adaptable 🔄, con experiencia en desarrollo de aplicaciones móviles (Java, Kotlin, Flutter) 📱 y un enfoque multidisciplinario.
+Mi compromiso con el aprendizaje continuo 🚀 me impulsa constantemente a explorar nuevas tecnologías y herramientas 🛠️, enriqueciendo así mi conjunto de habilidades como desarrollador. Me motiva enfrentarme a desafíos innovadores 💡 y liderar proyectos que requieran soluciones creativas y efectivas. 🎯
 
 <br>
 
